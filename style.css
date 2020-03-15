@@ -5,23 +5,37 @@ body{
 .fixed-header, .fixed-footer{
     width: 100%;
     position: fixed;        
-    background: #333;
+    background: #C25283    ;
     padding: 10px 0;
     color: #fff;
 }
 .fixed-header{
     top: 0;
+    text-align: right;
 }
 .fixed-footer{
     bottom: 0;
+}
+.quotation{
+    align-content: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.MyName{
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 200px;
+}
+div.image{
+    text-align: right;
 }
 .container{
     width: 80%;
     margin: 0 auto; /* Center the DIV horizontally */
 }
-nav{
+/* nav{
     margin-left: 550px;
-}
+} */
 nav a{
     color: #fff;
     text-decoration: none;
