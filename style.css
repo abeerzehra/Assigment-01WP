@@ -20,11 +20,12 @@ body{
     margin-left: 400px;
     margin-right: 400px;
     margin-top: 100px;
+    background-color:#F6DDCC;
 }
 .MyName{
     margin-left: 500px;
     margin-right: 500px;
-    margin-top: 250px;
+    margin-top: 215px;
 }
 div.image{
     text-align: right;
